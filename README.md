@@ -5,3 +5,5 @@ Introduction to Python Object Oriented Programming
   -  Constructor "__init__"
   -  Class and Instance Variable
   -  Method
+  -  Practice 1
+  
